@@ -7,8 +7,9 @@ Welcome to my GitHub profile. I'm enxssj, a 16-year-old student with with a pass
 
 ## 🚀 My Skills
 
-- 💻 **Primary Language:** <img src="https://skillicons.dev/icons?i=lua" alt="HTML5" />(Currently)</a>
-- 📚 **Secondary Languages:** <img src="https://skillicons.dev/icons?i=cpp" alt="HTML5" />(Leaarning)</a>
+- 💻 **Primary Language:** <img src="https://skillicons.dev/icons?i=lua" alt="HTML5" /></a>
+- 📚 **Secondary Languages:** <img src="https://skillicons.dev/icons?i=cpp" alt="HTML5" /></a>
+- 🖥️ **Other Language:** (In Learning) <img src="https://skillicons.dev/icons?i=js,html,css,mysql" alt="HTML5" /></a>
 
 ## 🌟 Featured Projects
 
